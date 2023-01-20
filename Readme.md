@@ -2,7 +2,7 @@
 #### Star firstly
 ##### Usage/Sequence
 
-1、cbf/capon/music/esprit/omp_doa.m are functions for DOA estimation;
+1、cbf/capon/music/esprit/omp/sbl_doa.m are functions for DOA estimation;
 
 2、train_generate.m is function for generating train_set.mat;  
 
