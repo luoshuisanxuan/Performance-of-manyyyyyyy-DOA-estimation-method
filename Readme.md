@@ -1,5 +1,4 @@
 #### Readme  
-#### Star firstly
 ##### Usage/Sequence
 
 1、cbf/capon/music/esprit/omp/sbl_doa.m are functions for DOA estimation;
