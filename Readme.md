@@ -30,7 +30,7 @@
 ​	  ShotOrNot.m counts accuracy and RMSE of Estimation;
 
 
-I would like to express my gratitude to Professor **Duan Keqing**, my senior brother **Chen Zhengkun**, **Chen Junzhao**, and **Xu Yiyu** for their guidance.
+I would like to express my gratitude to Professor **Duan Keqing**,  **Chen Zhengkun**, **Chen Junzhao**, and **Xu Yiyu** for their guidance.
 
 Our Group WeChat Official Account：
 
