@@ -31,5 +31,7 @@
 
 
 I would like to express my gratitude to Professor **Duan Keqing**, my senior brother **Chen Zhengkun**, **Chen Junzhao**, and **Xu Yiyu** for their guidance.
-Group WeChat Official Account：
+
+Our Group WeChat Official Account：
+
 ![image-20241204144247757](https://gitee.com/wearlongjohnsevenat30degrees/fortypora/raw/master/img/image-20241204144247757.png)
